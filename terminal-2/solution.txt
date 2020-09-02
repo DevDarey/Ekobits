@@ -1,0 +1,8 @@
+7)Control + A takes to the end,far right of the line where cursor is while control + e takes you back to the beginning
+8)Control + e
+9)control + w
+10)shell is a program that processes commands and returns output,while a terminal is program that runs on a shell
+11) an absolute path is defined as specifying the location of a file or directory from the root directory
+12)Relative path is defined as the path related to the present working directory
+13)Flags alter the default behaviour of commands examples -a,-r,-D 
+14)When you combine the -r and -f flags,it means that recursively and forcibly remove a directory (and its contents) without prompting for confirmation.
